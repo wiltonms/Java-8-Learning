@@ -1,6 +1,7 @@
 // Filename: Adicao.java
 // Program that takes two values and sums them.
 
+// Declaring the package this program will run.
 package Chapter1;
 
 import java.util.Scanner; // Program will use the Scanner method.
