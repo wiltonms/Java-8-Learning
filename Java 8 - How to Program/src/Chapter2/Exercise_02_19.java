@@ -7,7 +7,7 @@
 // Declaring package
 package Chapter2;
 
-// Creating exercise 2.16 class
+// Creating exercise 2.19 class
 public class Exercise_02_19
 {
 	// Creating main method to begin execution of the Java program
