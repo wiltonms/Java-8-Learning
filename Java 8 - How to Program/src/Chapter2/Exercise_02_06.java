@@ -1,7 +1,8 @@
-// Exercise 2.7 from Java 8 How to program
+// Exercise 2.6 from Java 8 How to program
 // This program will calculate the product of three integers.
 
 package Chapter2;
+
 //Importing Scanner class
 import java.util.Scanner;
 
