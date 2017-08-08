@@ -1,19 +1,29 @@
 // Java 8 - How to program 10th Ed.
+// Exercise 2.14 from Java 8 How to program
+// Checking output of printf 
 
+// Declaring package
+package Chapter2;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+// Creating a public class
+public class Exercise_02_14
+{
+	// Creating main method
+	public static void main(String[] args)
+	{
+		// Displaying number on the screen
+		
+	// A)
+		System.out.println("12 34");
+	// B)
+		System.out.print("1");
+			System.out.print("2 ");
+			System.out.print("3");
+			System.out.print("4");
+	// C)	
+		System.out.printf("%d%d% d%d", 1,2,3,4);
+	}
+}
 
 
 
