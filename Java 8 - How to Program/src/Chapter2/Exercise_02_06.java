@@ -36,8 +36,8 @@ public class Exercise_02_06
 		 System.out.printf("Product is: %d%n", result);
 				
 		input.close();
-	} // End of main class
-
+		
+	} // End of main method
 } // End of class
 
 
