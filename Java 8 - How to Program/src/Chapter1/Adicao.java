@@ -31,5 +31,5 @@ public class Adicao
 		
 		// Closing input Scanner method
 		input.close();
-	}
-}
+	} // End of main Class
+} // End of class
