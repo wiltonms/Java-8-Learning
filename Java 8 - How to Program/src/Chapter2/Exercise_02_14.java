@@ -1,6 +1,6 @@
 // Java 8 - How to program 10th Ed.
 // Exercise 2.14 from Java 8 How to program
-// Checking output of printf 
+// Checking output of print funcions
 
 // Declaring package
 package Chapter2;
