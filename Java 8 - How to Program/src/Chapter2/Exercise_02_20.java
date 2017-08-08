@@ -26,7 +26,13 @@ public class Exercise_02_20
 	}
 }
 
-
+/* output:
+	*
+	***
+	*****
+	****
+	**
+ */
 
 
 
