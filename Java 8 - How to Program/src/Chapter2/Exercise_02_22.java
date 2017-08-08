@@ -1,6 +1,6 @@
 // Java 8 - How to program 10th Ed.
 /*  Date: 08/08/2017 (dd-mm-yyyy)
-  2.22 What does the following code print?
+  	2.22 What does the following code print?
  	System.out.print("*");
 	System.out.println("***");
 	System.out.println("*****");

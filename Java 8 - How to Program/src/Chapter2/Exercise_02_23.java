@@ -1,22 +1,26 @@
 // Java 8 - How to program 10th Ed.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*  2.23 What does the following code print?
+/*  Date: 08/08/2017 (dd-mm-yyyy)
+	2.23 What does the following code print?
 	System.out.printf("%s%n%s%n%s%n", "*", "***", "*****");
+*/
+
+// Declaring package
+package Chapter2;
+
+// Creating exercise 2.23 class
+public class Exercise_02_23
+{
+	// Creating main method to begin execution of the Java program
+	public static void main(String[] args)
+	{
+		System.out.printf("%s%n%s%n%s%n", "*", "***", "*****");
+	}
+}
+
+/* Output: 
+
+*
+***
+*****
+
 */
