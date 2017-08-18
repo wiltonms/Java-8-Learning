@@ -5,7 +5,7 @@ package Chapter2;
 //Importing Scanner class
 import java.util.Scanner;
 
-// for tracking matters this is called Exercise3 but it would make more sense to call the class as "Calc"
+// for tracking purpose I called Exercise_02_06 but it would make more sense to call the class as "Calc" or "Product"
 public class Exercise_02_06 
 {
 	// Begin of main class
