@@ -1,7 +1,8 @@
-// Exercise 2.7 from Java 8 How to program
+// Exercise 2.6 from Java 8 How to program
 // This program will calculate the product of three integers.
 
 package Chapter2;
+
 //Importing Scanner class
 import java.util.Scanner;
 
@@ -36,8 +37,8 @@ public class Exercise_02_06
 		 System.out.printf("Product is: %d%n", result);
 				
 		input.close();
-	} // End of main class
-
+		
+	} // End of main method
 } // End of class
 
 

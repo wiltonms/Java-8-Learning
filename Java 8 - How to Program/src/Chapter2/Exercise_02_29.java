@@ -1,22 +1,5 @@
 // Java 8 - How to program 10th Ed.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*  Date: 09/08/2017 (dd-mm-yyyy)
 /*  2.29 (Integer Value of a Character) Here’s another peek ahead. 
 In this chapter, you learned about integers and the type int. Java can also represent uppercase letters, lowercase letters and a considerable variety of special symbols. 
 Every character has a corresponding integer representation. The set of characters a computer uses together with the corresponding integer representations for those characters is called that computer’s character set. 
@@ -33,3 +16,29 @@ The format specifier %c is a placeholder for a character (in this case, the char
 Using statements similar to the one shown earlier in this exercise, write an application that displays the integer equivalents of some uppercase letters, lowercase letters, digits and special symbols.
 Display the integer equivalents of the following: A B C a b c 0 1 2 $ * + / and the blank character.
 */
+
+package Chapter2;
+
+// Creating class
+public class Exercise_02_29
+	{
+		// Creating main method to execute the java program.
+		public static void main(String[] args)
+		{
+			System.out.printf("The character %c has the value %d%n", 'A', ((int) 'A'));
+			System.out.printf("The character %c has the value %d%n", 'B', ((int) 'B'));
+			System.out.printf("The character %c has the value %d%n", 'C', ((int) 'C'));
+			System.out.printf("The character %c has the value %d%n", 'a', ((int) 'a'));
+			System.out.printf("The character %c has the value %d%n", 'b', ((int) 'b'));
+			System.out.printf("The character %c has the value %d%n", 'c', ((int) 'c'));
+			System.out.printf("The character %c has the value %d%n", '0', ((int) '0'));
+			System.out.printf("The character %c has the value %d%n", '1', ((int) '1'));
+			System.out.printf("The character %c has the value %d%n", '2', ((int) '2'));
+			System.out.printf("The character %c has the value %d%n", '$', ((int) '$'));
+			System.out.printf("The character %c has the value %d%n", '*', ((int) '*'));
+			System.out.printf("The character %c has the value %d%n", '+', ((int) '+'));
+			System.out.printf("The character %c has the value %d%n", '/', ((int) '/'));
+			System.out.printf("The character %c has the value %d%n", ' ', ((int) ' '));
+			
+		} // End of main method
+	} // End of class
